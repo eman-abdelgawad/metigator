@@ -1,6 +1,6 @@
 # 🚀 C# Mastery Learning Path
 
-A comprehensive guide to mastering C#, .NET, and related technologies from beginner to advanced level.
+A comprehensive guide to mastering C#, .NET, and related technologies from beginner to advanced level..
 
 ---
 
